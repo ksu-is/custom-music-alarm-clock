@@ -1,5 +1,5 @@
-# custom-music-alarm-clock
-#This program will function as an digital alarm clock.
+# Chrono Beatz - custom music alarm clock 
+This program will function as an digital alarm clock.
 This program will operate as a clock that displays current time and date digitally in a 12-hour format.
 This clock has the ability to function as an alarm clock.
 There is no default alarm sound, instead the user will have to click the "add mp3" button to navigate to an mp3 file on their device to be used as the alarm sound.
